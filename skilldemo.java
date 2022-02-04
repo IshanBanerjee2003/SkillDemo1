@@ -1,1 +1,6 @@
-public class skilldemo{}//Editing the code offline
+public class skilldemo{
+    public static int multiply(int m, int n)
+    {
+        return m*n;
+    }
+}
